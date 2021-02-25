@@ -14,5 +14,6 @@ Remaining issues:
 - [] Avg response time and http response time doesnt seem to be correct. The units of avg response time is really weird. Need more investigation in OPA source code as well as my queries.
 
 
+This dashboard is published on Grafana at https://grafana.com/grafana/dashboards/13965. 
 
 
